@@ -39,6 +39,20 @@ $RECYCLE.BIN/
 .Trashes
 .VolumeIcon.icns
 
+/Mini-report/
+/*.docx
+/*/Caracteristicas_extraidas/
+/*/Celulas_validas/
+/*/Datos_PCA/
+/*/Deteccion_dapi/
+/*/Matrices_cc/
+/*/Montadas/
+/*/Recibidas/
+/*/Segmentadas/
+/*/Seleccion_Roi/
+/*/*.xlsx
+/*/*.pdf
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
